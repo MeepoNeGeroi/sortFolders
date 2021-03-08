@@ -1,0 +1,10 @@
+txt = doc
+html = doc
+docx = doc
+pages = doc
+pdf = doc
+png = image
+jpg = image
+jpeg = image
+mp3 = music
+mp4 = music
